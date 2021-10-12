@@ -2,7 +2,7 @@
 description: >-
   A great way to find the best new cryptocurrencies and tokens. Voting is open
   24/7!
-cover: .gitbook/assets/tRZEMGsVgF7Q6TFAKcEZdKwIGdHI1GFGutH3cX4I.png
+cover: .gitbook/assets/banner.png
 coverY: 0
 ---
 

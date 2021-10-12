@@ -1,6 +1,6 @@
 # Connect Wallet to PancakePoll
 
-![](../.gitbook/assets/tRZEMGsVgF7Q6TFAKcEZdKwIGdHI1GFGutH3cX4I.png)
+![](../.gitbook/assets/banner.png)
 
 You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
 
