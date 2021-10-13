@@ -1,6 +1,10 @@
 # 🌅 NFT Badge
 
+![](../.gitbook/assets/PANCAKEPOLL-BANNER-1120x256px.png)
+
 Every NFT got special abilities
+
+{% embed url="https://pancakepoll.com/nft-badge" %}
 
 {% tabs %}
 {% tab title="Props Collection" %}

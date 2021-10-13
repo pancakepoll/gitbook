@@ -10,3 +10,8 @@
 
 * [🌅 NFT Badge](feature/nft-badge.md)
 * [🚜 Yield Farming](feature/yield-farming.md)
+* [🔥 Burn by Vote](feature/burn-by-vote.md)
+
+## Tokenomics
+
+* [PancakePoll $CAKEP](tokenomics/pancakepoll-usdcakep.md)
