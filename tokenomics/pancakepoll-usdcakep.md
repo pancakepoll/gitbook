@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/tokenomics.jpg)
 
-* **Ticker **: CAKEP
+* **Ticker **: PPOLL
 * **Contract Address**: 
 * **Chain**: Binance Smart Chain (BEP20)
 
