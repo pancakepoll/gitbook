@@ -14,7 +14,7 @@
 * [✨ NFT Marketplace](feature/nft-marketplace.md)
 * [🌅 NFT Badge](feature/nft-badge.md)
 * [🔥 Burn & Vote](feature/burn-and-vote.md)
-* [Social Sharing](feature/social-sharing.md)
+* [🌈 Social Sharing](feature/social-sharing.md)
 * [🌾 Submit Coin](feature/submit-coin.md)
 
 ## Tokenomics
