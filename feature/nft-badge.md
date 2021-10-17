@@ -1,6 +1,6 @@
 # 🌅 NFT Badge
 
-![](../.gitbook/assets/PANCAKEPOLL-BANNER-1120x256px.png)
+![](<../.gitbook/assets/PANCAKEPOLL-BANNER-1120x256px (1).png>)
 
 Every NFT got special abilities
 
