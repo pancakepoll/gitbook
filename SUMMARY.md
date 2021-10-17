@@ -8,11 +8,13 @@
 
 ## Feature
 
+* [⚡ Token Manager](feature/token-manager/README.md)
+  * [🚜 Pool Staking](feature/token-manager/pool-staking.md)
+  * [💧 Airdrop Feature](feature/token-manager/airdrop-feature.md)
+* [✨ NFT Marketplace](feature/nft-marketplace.md)
 * [🌅 NFT Badge](feature/nft-badge.md)
-* [🚜 Yield Farming](feature/yield-farming.md)
 * [🔥 Burn & Vote](feature/burn-and-vote.md)
-* [💧 Airdrop Feature](feature/airdrop-feature.md)
 
 ## Tokenomics
 
-* [PancakePoll $CAKEP](tokenomics/pancakepoll-usdcakep.md)
+* [PancakePoll $PPOLL](tokenomics/pancakepoll-usdppoll.md)
