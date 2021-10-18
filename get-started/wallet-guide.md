@@ -31,7 +31,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 ### Which mobile wallet should I choose?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with PancakePoll.
 
 |                                                          |          Trust Wallet         | MetaMask | Token Pocket | SafePal |
 | -------------------------------------------------------- | :---------------------------: | :------: | :----------: | :-----: |
