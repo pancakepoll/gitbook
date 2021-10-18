@@ -2,6 +2,7 @@
 
 * [PancakePoll Intro](README.md)
 * [Get Started](get-started/README.md)
+  * [Intro](get-started/intro.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Connect Wallet to PancakePoll](get-started/connection-guide.md)
   * [Vote Token](get-started/vote-guide.md)
