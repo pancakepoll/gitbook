@@ -29,4 +29,4 @@
 
 ## Submit
 
-* [🌾 Submit Coin](submit/submit-coin.md)
+* [🌾 How to Submit a Token to Pancakepoll](submit/how-to-submit-a-token-to-pancakepoll.md)
