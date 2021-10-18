@@ -1,2 +1,0 @@
-# ➡ Ads Manager
-
