@@ -8,9 +8,9 @@ Using anything new can be a bit of a challenge. Don't worry though, we've create
 
 Follow these guides to get everything set up to use PancakePoll, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-* [Create a Wallet](https://docs.pancakepoll.com/get-started/wallet-guide)
-* [Get BEP20 Tokens](https://docs.pancakepoll.com/get-started/bep20-guide)
-* [Connect your wallet to PancakePoll](https://docs.pancakepoll.com/get-started/connection-guide)
+* [Create a Wallet](wallet-guide.md)
+* [Get BEP20 Tokens](get-bep20-tokens.md)
+* [Connect your wallet to PancakePoll](connection-guide.md)
 
 ## Guides for using PancakePoll features
 
