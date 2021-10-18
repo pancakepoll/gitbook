@@ -14,7 +14,7 @@ Follow these guides to get everything set up to use PancakePoll, or feel free to
 
 ## Guides for using PancakePoll features
 
-Once you have a wallet set up and connected to PancakeSwap, feel free to check our other how-to guides below.
+Once you have a wallet set up and connected to PancakePoll, feel free to check our other how-to guides below.
 
 * [How to Vote](../feature/vote-and-burn/how-to-vote.md)
 * How to Use Farms (Future)
@@ -22,6 +22,6 @@ Once you have a wallet set up and connected to PancakeSwap, feel free to check o
 * [How to Set Up Ads Manager](../feature/ads-manager/how-to-set-up-ads-manager.md)
 * [How to Use the Token Manager](../feature/token-manager/how-to-use-the-token-manager.md)
 
-Check the menu for more documentation on the range of PancakeSwap features and services, including more advanced guides.
+Check the menu for more documentation on the range of PancakePoll features and services, including more advanced guides.
 
 If you can't find what you need, feel free to visit the [PancakePoll Telegram](https://t.me/pancakepollbsc) and ask for help there!
