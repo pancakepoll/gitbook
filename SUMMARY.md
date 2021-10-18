@@ -10,14 +10,19 @@
 ## Feature
 
 * [⚡ Token Manager](feature/token-manager/README.md)
-  * [🚜 Pool Staking](feature/token-manager/pool-staking.md)
+  * [🚜 Staking Pool](feature/token-manager/staking-pool.md)
   * [💧 Airdrop Feature](feature/token-manager/airdrop-feature.md)
+  * [🌈 Token Analytic](feature/token-manager/token-analytic.md)
+  * [⚙ NFT Generator](feature/token-manager/nft-generator.md)
 * [✨ NFT Marketplace](feature/nft-marketplace.md)
 * [🌅 NFT Badge](feature/nft-badge.md)
-* [🔥 Burn & Vote](feature/burn-and-vote.md)
-* [🌈 Social Sharing](feature/social-sharing.md)
-* [🌾 Submit Coin](feature/submit-coin.md)
+* [➡ Ads Manager](feature/ads-manager.md)
+* [🔥 Vote & Burn](feature/vote-and-burn.md)
 
 ## Tokenomics
 
 * [PancakePoll $PPOLL](tokenomics/pancakepoll-usdppoll.md)
+
+## Submit
+
+* [🌾 Submit Coin](submit/submit-coin.md)
