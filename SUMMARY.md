@@ -4,7 +4,7 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/get-bep20-tokens.md)
-  * [Connect Wallet to PancakePoll](get-started/connection-guide.md)
+  * [Connect Your Wallet to PancakePoll](get-started/connection-guide.md)
   * [Vote Token](get-started/vote-guide.md)
 
 ## Feature
