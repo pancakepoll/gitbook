@@ -4,7 +4,7 @@ description: >-
   and we will get back to you as soon as possible.
 ---
 
-# 🌾 Submit Coin
+# 🌾 How to Submit a Token to Pancakepoll
 
 ![](../.gitbook/assets/GETSTARTED.jpg)
 
