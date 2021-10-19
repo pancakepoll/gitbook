@@ -41,7 +41,8 @@
 
 ## Developers
 
-* [Contributing](developers/contributing.md)
+* [Contributing](developers/contributing/README.md)
+  * [Codebase Overview](developers/contributing/codebase-overview.md)
 * [Bug Bounty](developers/bug-bounty.md)
 * [Smart Contracts](developers/smart-contracts.md)
 

@@ -4,17 +4,7 @@
 
 ## **Emission rate** <a href="emission-rate" id="emission-rate"></a>
 
-### **Per block**
-
-| **Metric**             | **Emission/block (PPOLL)** | **Emission/day (PPOLL)** |
-| ---------------------- | -------------------------: | -----------------------: |
-| Emission               |                        TBA |                      TBA |
-| Burned Weekly          |                        TBA |                      TBA |
-| **Effective Emission** |                  **TBA\*** |                **TBA\*** |
-
-\*Effective Emission is in fact slightly below this amount: an additional (TBA) PPOLL per day is diverted from the amount allocated to the XXXX, and burned.
-
-In addition to the above, a dynamic amount of PPOLL is also minted to the Dev address at a rate of TBA%. This means that if 100 PPOLL are harvested, then X.XX PPOLL is minted in addition and sent to the Dev Address.
+**PPOLL **does not have an emission rate. All the **PPOLL **tokens have been minted when the token was created.
 
 ## Distribution
 
