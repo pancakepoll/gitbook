@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/NEWBAN.jpg)
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
+This FAQ page answers some of the more commonly asked questions from the PancakePoll community.
 
 ## Is PancakePoll safe? Has PancakePoll been Audited?
 
@@ -10,7 +10,7 @@ See for yourself:
 
 * Check out these PancakePoll security audits:&#x20;
   * Certik’s security audit of PancakePoll and Certik's Shield insurance (TO DO)
-  * Slowmist's security audit of PancakeSwap (TO DO)
+  * Slowmist's security audit of PancakePoll (TO DO)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.&#x20;
   * Our contracts are verified on BscScan so you know that what you see is what you get: 1 2 3 4 5 (TO ADD)
@@ -32,13 +32,13 @@ Learn more about Yield Farming.
 
 We have a Yield Farming guide if you're interested in learning how to farm.
 
-## Where can I view the PancakeSwap roadmap?
+## Where can I view the PancakePoll roadmap?
 
 You can [view our to-do list here, but don't call it a roadmap](https://roadmap.pancakepoll.com/roadmap).
 
 ## How do I connect my wallet to Binance Smart Chain and PancakePoll?
 
-We have a [Connect Your Wallet to PancakeSwap guide](../get-started/connection-guide.md) covering this in detail.
+We have a [Connect Your Wallet to PancakePoll guide](../get-started/connection-guide.md) covering this in detail.
 
 ## What's the best wallet for PancakePoll?
 
@@ -88,7 +88,7 @@ The treasury funds are used to cover the expenses involved in running PancakePol
 
 You can check the analytics of a token listed on Pancakepoll by click on the "Analytics" tab on the token's page.
 
-## Can I join the PancakeSwap team?
+## Can I join the PancakePoll team?
 
 Check the [Become a Duck Chef](../hiring/become-a-duck-chef.md) area for information on open positions we're looking to fill.
 
