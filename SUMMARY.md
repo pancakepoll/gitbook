@@ -35,7 +35,9 @@
 
 ## TOKENOMICS
 
-* [PPOLL](tokenomics/ppoll.md)
+* [PPOLL](tokenomics/ppoll/README.md)
+  * [PPOLL Tokenomics](tokenomics/ppoll/ppoll-tokenomics.md)
+  * [Controlling PPOLL Supply](tokenomics/ppoll/controlling-ppoll-supply.md)
 
 ## Developers
 

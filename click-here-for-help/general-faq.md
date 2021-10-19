@@ -78,7 +78,7 @@ To learn more about voting, you can [read our section on Voting](../feature/vote
 
 The maximum $PPOLL supply is 1T tokens. The circulating supply is managed through built-in burning and regular burning events.\
 \
-Read this to[ learn more about PancakePoll's tokenomics](../tokenomics/ppoll.md).
+Read this to[ learn more about PancakePoll's tokenomics](../tokenomics/ppoll/).
 
 ## What are the treasury funds used for?
 
