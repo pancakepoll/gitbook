@@ -135,7 +135,7 @@ If you do have an existing wallet to import, use the top option instead.
 
 And that’s it, all done!
 
-To connect to Binance Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakePoll guide [https://docs.pancakepoll.com/get-started/connection-guide](https://docs.pancakepoll.com/get-started/connection-guide)
+To connect to Binance Smart Chain and use PancakePoll, you can follow the TokenPocket section of our Connect Your Wallet to PancakePoll guide [https://docs.pancakepoll.com/get-started/connection-guide](https://docs.pancakepoll.com/get-started/connection-guide)
 
 ### Getting a private key from mobile to import to desktop
 
