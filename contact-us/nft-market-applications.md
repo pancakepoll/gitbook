@@ -8,7 +8,7 @@ NFT collection creators can earn creator royalties (TO DO).
 
 We're now accepting applications for Phase 2 of the Marketplace, which will be released in TBA.
 
-Apply for Listing on PancakeSwap NFT Market
+Apply for Listing on PancakePoll NFT Market
 
 ## Something else
 
