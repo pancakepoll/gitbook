@@ -23,6 +23,10 @@ But that's not all -- there's much more on the horizon for PPOLL!
 
 Check below to discover the nuts and bolts of how CAKE works.
 
-{% embed url="https://docs.pancakepoll.com/tokenomics/ppoll/ppoll-tokenomics" %}
+{% content-ref url="ppoll-tokenomics.md" %}
+[ppoll-tokenomics.md](ppoll-tokenomics.md)
+{% endcontent-ref %}
 
-{% embed url="https://docs.pancakepoll.com/tokenomics/ppoll/controlling-ppoll-supply" %}
+{% content-ref url="controlling-ppoll-supply.md" %}
+[controlling-ppoll-supply.md](controlling-ppoll-supply.md)
+{% endcontent-ref %}
