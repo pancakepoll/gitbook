@@ -18,7 +18,7 @@ Once you have a wallet set up and connected to PancakePoll, feel free to check o
 
 * [How to Vote](../feature/vote-and-burn/how-to-vote.md)
 * How to Use Farms (Future)
-* [How to Set Up an NFT Badge](../feature/nft-badge/how-to-set-up-an-nft-badge.md)
+* [How to Set Up an NFT Badge](../feature/nft-profile-and-badges/how-to-set-up-an-nft-badge.md)
 * [How to Set Up Ads Manager](../feature/ads-manager/how-to-set-up-ads-manager.md)
 * [How to Use the Token Manager](../feature/token-manager/how-to-use-the-token-manager.md)
 * [How to Submit a Token to Pancakepoll](../submit/submit-coin.md)
