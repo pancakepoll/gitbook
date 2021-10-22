@@ -9,7 +9,6 @@
 * [Click Here for Help](click-here-for-help/README.md)
   * [Troubleshooting Errors](click-here-for-help/troubleshooting-errors.md)
   * [General FAQ](click-here-for-help/general-faq.md)
-  * [Fixing Stuck Pending Transactions on MetaMask](click-here-for-help/fixing-stuck-pending-transactions-on-metamask.md)
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [NFT Market Applications](contact-us/nft-market-applications.md)
@@ -41,8 +40,6 @@
 
 ## Developers
 
-* [Contributing](developers/contributing/README.md)
-  * [Codebase Overview](developers/contributing/codebase-overview.md)
 * [Bug Bounty](developers/bug-bounty.md)
 * [Smart Contracts](developers/smart-contracts.md)
 

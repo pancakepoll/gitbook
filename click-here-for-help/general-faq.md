@@ -4,34 +4,6 @@
 
 This FAQ page answers some of the more commonly asked questions from the PancakePoll community.
 
-## Is PancakePoll safe? Has PancakePoll been Audited?
-
-See for yourself:
-
-* Check out these PancakePoll security audits:&#x20;
-  * Certik’s security audit of PancakePoll and Certik's Shield insurance (TO DO)
-  * Slowmist's security audit of PancakePoll (TO DO)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.&#x20;
-  * Our contracts are verified on BscScan so you know that what you see is what you get: 1 2 3 4 5 (TO ADD)
-* Security best practices:
-  * The Duck chefs use multisig for all contracts.
-  * Our contracts’ time-lock gives you peace of mind.
-
-## What is the difference between staking and farming?
-
-Staking in Milk Pools and farming with Yield Farming are both ways to earn more PPOLL by supporting PancakePoll.
-
-Staking only needs some PPOLL to be added to a Milk Pool to earn PPOL or other tokens.\
-Learn more about Syrup Pool staking.
-
-Farming is more complicated and needs LP Tokens to earn PPOLL.\
-Learn more about Yield Farming.
-
-## How do I farm?
-
-We have a Yield Farming guide if you're interested in learning how to farm.
-
 ## Where can I view the PancakePoll roadmap?
 
 You can [view our to-do list here, but don't call it a roadmap](https://roadmap.pancakepoll.com/roadmap).
@@ -50,7 +22,7 @@ You can check the status of a transaction on [https://bscscan.com/](https://bscs
 
 Our [Troubleshooting Errors guide](troubleshooting-errors.md) may have a solution for your problem if you're having issues.
 
-You can also see our [Fixing Stuck Pending Transactions guide](fixing-stuck-pending-transactions-on-metamask.md) if you have a stuck transaction.
+You can also see our [Fixing Stuck Pending Transactions guide](broken-reference) if you have a stuck transaction.
 
 ## How do I get airdrops?
 
