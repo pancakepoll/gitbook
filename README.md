@@ -65,10 +65,10 @@ See for yourself:
 
 * Check out these PancakePoll security audits:&#x20;
   * Certik’s security audit of PancakePoll and Certik's Shield insurance (TO DO)
-  * Slowmist's security audit of PancakePoll (TO DO)
+  * Interfi Network's security audit of PancakePoll (TO DO)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.&#x20;
-  * Our contracts are verified on BscScan so you know that what you see is what you get: 1 2 3 4 5 (TO ADD)
+  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7) 2 3 4 5 (TO ADD)
 * Security best practices:
   * The Duck chefs use multisig for all contracts.
   * Our contracts’ time-lock gives you peace of mind.
