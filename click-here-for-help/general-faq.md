@@ -62,7 +62,7 @@ You can check the analytics of a token listed on Pancakepoll by click on the "An
 
 ## Can I join the PancakePoll team?
 
-Check the [Become a Duck Chef](../hiring/become-a-duck-chef.md) area for information on open positions we're looking to fill.
+Check the [Become a Duck Chef](../hiring/become-a-duck-chef/) area for information on open positions we're looking to fill.
 
 We advertise new positions we're looking to fill on our [official social media channels](../contact-us/#social-communities), so be sure to follow us to get the latest hiring information.
 

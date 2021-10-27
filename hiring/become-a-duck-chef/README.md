@@ -1,6 +1,6 @@
 # Become a Duck Chef
 
-![](../.gitbook/assets/NEWBAN.jpg)
+![](../../.gitbook/assets/NEWBAN.jpg)
 
 Interested in joining the PancakePoll team? If you're passionate, dedicated, and a fan of all things fluffy, syrupy, and brownish-gold, we'd love to hear from you!
 

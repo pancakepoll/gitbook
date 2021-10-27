@@ -49,4 +49,5 @@
 
 ## HIRING
 
-* [Become a Duck Chef](hiring/become-a-duck-chef.md)
+* [Become a Duck Chef](hiring/become-a-duck-chef/README.md)
+  * [Chinese Community Managers](hiring/become-a-duck-chef/chinese-community-managers.md)
