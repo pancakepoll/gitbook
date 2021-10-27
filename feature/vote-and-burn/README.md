@@ -1,3 +1,5 @@
 # 🔥 Vote & Burn
 
-![Vote your favorite token on PancakePoll, every voting will be burned into burn wallet.](../../.gitbook/assets/burn.jpg)
+## This pancake is being flipped!
+
+![](<../../.gitbook/assets/PANCAKEPOLL-COMING-SOON (2).png>)
