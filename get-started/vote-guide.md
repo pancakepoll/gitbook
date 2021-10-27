@@ -1,5 +1,5 @@
 # Vote Token
 
-Start Vote your favorite token now
+## This pancake is being flipped!
 
-![](../.gitbook/assets/votetoken.jpg)
+![](<../.gitbook/assets/PANCAKEPOLL-COMING-SOON (2).png>)

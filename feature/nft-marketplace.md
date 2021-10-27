@@ -11,4 +11,4 @@ The Pancakepoll NFT Marketplace will be available to both Token Managers and Ind
 
 [Token Managers](token-manager/) will find the NFT Creator/NFT Collection Creator option inside their Token Manager panel. An individual creator will find the NFT Creator option inside their profile panel. The present concept is to allow for both "Bidding" and "Buy Now" options when it comes to NFT purchasing.
 
-![](../.gitbook/assets/PANCAKEPOLL-COMING-SOON.png)
+![](<../.gitbook/assets/PANCAKEPOLL-COMING-SOON (1).png>)
