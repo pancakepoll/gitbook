@@ -8,7 +8,7 @@
 
 ## The basics
 
-PPOLL is the token that powers the PancakepPoll ecosystem.
+PPOLL is the token that powers the PancakePoll ecosystem.
 
 Earn PPOLL from Egg Farms and Milk Pools, win it in the events, or buy it on the exchange, then explore its use cases:
 
