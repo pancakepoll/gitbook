@@ -21,7 +21,7 @@ But that's not all -- there's much more on the horizon for PPOLL!
 
 ## In detail
 
-Check below to discover the nuts and bolts of how CAKE works.
+Check below to discover the nuts and bolts of how PancakePoll works.
 
 {% content-ref url="ppoll-tokenomics.md" %}
 [ppoll-tokenomics.md](ppoll-tokenomics.md)
