@@ -2,9 +2,9 @@
 
 ![](../../.gitbook/assets/NEWBAN.jpg)
 
-All the **PPOLL **tokens have been minted when the token was created.
+All the **PPOLL** tokens have been minted when the token was created.
 
-## **Other Deflationary Mechanics** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
+## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
 {% hint style="info" %}
 View burn transactions here.

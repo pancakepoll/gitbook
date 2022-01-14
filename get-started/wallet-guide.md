@@ -145,7 +145,7 @@ Token Pocket lets you use both a desktop and mobile wallet. This section will co
 Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open-source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
 {% endhint %}
 
-1. Tap the **Me **tab on the bottom ribbon and tap **Manage Wallets**.
+1. Tap the **Me** tab on the bottom ribbon and tap **Manage Wallets**.
 2. On the next page, tap the **Binance Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to the clipboard instead.
 3. When the menu appears, find and tap the **Export Private Key** option. Type in your password to get your private key.
 

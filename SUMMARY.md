@@ -6,31 +6,26 @@
   * [Get BEP20 Tokens](get-started/get-bep20-tokens.md)
   * [Connect Your Wallet to PancakePoll](get-started/connection-guide.md)
   * [Vote Token](get-started/vote-guide.md)
-* [Click Here for Help](click-here-for-help/README.md)
-  * [Troubleshooting Errors](click-here-for-help/troubleshooting-errors.md)
-  * [General FAQ](click-here-for-help/general-faq.md)
-* [Contact Us](contact-us/README.md)
-  * [Business Partnerships](contact-us/business-partnerships.md)
-  * [NFT Market Applications](contact-us/nft-market-applications.md)
-  * [Customer Support](contact-us/customer-support.md)
-  * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
-* [Roadmap](https://roadmap.pancakepoll.com/roadmap)
+* [✳ Roadmap](roadmap.md)
 
 ## Feature
 
-* [⚡ Token Manager](feature/token-manager/README.md)
-  * [ℹ How to Use the Token Manager](feature/token-manager/how-to-use-the-token-manager.md)
-  * [🚜 Staking Pool](feature/token-manager/staking-pool.md)
-  * [💧 Airdrop Feature](feature/token-manager/airdrop-feature.md)
-  * [🌈 Token Analytic](feature/token-manager/token-analytic.md)
-  * [⚙ NFT Generator](feature/token-manager/nft-generator.md)
+* [⚡ Swap Integration with Major Dex](feature/swap-integration-with-major-dex.md)
 * [✨ NFT Marketplace](feature/nft-marketplace.md)
+* [🤖 NFT Earn](feature/nft-earn/README.md)
+  * [♾ NFT Staking Pool](feature/nft-earn/nft-staking-pool.md)
+  * [❗ NFT Gain EXP](feature/nft-earn/nft-gain-exp.md)
+  * [⬆ NFT Level Upgrade](feature/nft-earn/nft-level-upgrade.md)
 * [🌅 NFT Profile & Badges](feature/nft-badge/README.md)
   * [ℹ How to Set Up an NFT Badge](feature/nft-badge/how-to-set-up-an-nft-badge.md)
-* [📺 Ads Manager](feature/ads-manager/README.md)
-  * [ℹ How to Set Up Ads Manager](feature/ads-manager/how-to-set-up-ads-manager.md)
+* [📺 Portfolio Multichain](feature/portfolio-multichain/README.md)
+  * [🌈 Token Analytic](feature/portfolio-multichain/token-analytic.md)
 * [🔥 Vote & Burn](feature/vote-and-burn/README.md)
   * [ℹ How to Vote](feature/vote-and-burn/how-to-vote.md)
+
+## Duck GameFi
+
+* [DuckArmy](duck-gamefi/duckarmy.md)
 
 ## TOKENOMICS
 

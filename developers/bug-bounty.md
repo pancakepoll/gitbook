@@ -25,4 +25,4 @@ The PancakePoll bug bounty program is focused around our smart contracts, websit
 
 \*XSS reports are restricted to those that have an impact of prompting a user to sign a transaction or a redirect.
 
-All payouts are done by the **PancakePoll** team and are pegged to the **USD** values set here and are payable in **PPOLL **or **BUSD**.
+All payouts are done by the **PancakePoll** team and are pegged to the **USD** values set here and are payable in **PPOLL** or **BUSD**.

@@ -135,7 +135,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKIkgOhWctaOzE5Wvn%2F-MbKLkOk-kZmQDJSFMUL%2Fimage.png?alt=media\&token=44856fd4-4499-4703-8a36-20945953aef3)
 
-&#x20; 2\. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakePoll **button. If you can't see **PancakePoll** under DeFi, you can also type Pancakepoll.com into the URL search bar.
+&#x20; 2\. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakePoll** button. If you can't see **PancakePoll** under DeFi, you can also type Pancakepoll.com into the URL search bar.
 
 ![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets)
 

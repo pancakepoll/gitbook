@@ -2,9 +2,9 @@
 
 ![](../../.gitbook/assets/NEWBAN.jpg)
 
-* **Ticker: **PPOLL
-* **Contract Address: **https://bscscan.com/token/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7
-* **Chain: **Binance Smart Chain (BEP20)
+* **Ticker:** PPOLL
+* **Contract Address:** https://bscscan.com/token/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7
+* **Chain:** Binance Smart Chain (BEP20)
 
 ## The basics
 
