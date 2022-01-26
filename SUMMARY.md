@@ -11,13 +11,11 @@
 ## Feature
 
 * [⚡ Swap Integration with Major Dex](feature/swap-integration-with-major-dex.md)
-* [✨ NFT Marketplace](feature/nft-marketplace.md)
+* [✨ NFT Market](feature/nft-market.md)
 * [🤖 NFT Earn](feature/nft-earn/README.md)
   * [♾ NFT Staking Pool](feature/nft-earn/nft-staking-pool.md)
   * [❗ NFT Gain EXP](feature/nft-earn/nft-gain-exp.md)
   * [⬆ NFT Level Upgrade](feature/nft-earn/nft-level-upgrade.md)
-* [🌅 NFT Profile & Badges](feature/nft-badge/README.md)
-  * [ℹ How to Set Up an NFT Badge](feature/nft-badge/how-to-set-up-an-nft-badge.md)
 * [📺 Portfolio Multichain](feature/portfolio-multichain/README.md)
   * [🌈 Token Analytic](feature/portfolio-multichain/token-analytic.md)
 * [🔥 Vote & Burn](feature/vote-and-burn/README.md)
@@ -40,6 +38,7 @@
 * [PPOLL](tokenomics/ppoll/README.md)
   * [PPOLL Tokenomics](tokenomics/ppoll/ppoll-tokenomics.md)
   * [Controlling PPOLL Supply](tokenomics/ppoll/controlling-ppoll-supply.md)
+* [QUACK](tokenomics/quack.md)
 
 ## Developers
 

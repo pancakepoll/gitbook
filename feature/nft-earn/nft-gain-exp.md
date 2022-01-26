@@ -4,8 +4,7 @@
 
 **How to get EXP?**
 
-* **Boost using PPOLL/DUCK**
-* **Volume traded in Marketplace**
+* **Boost using DUCK**
 * **TBA**
 
 ****
