@@ -4,7 +4,7 @@ Now that we know the importance of having a Duck NFT to start the game, it is ti
 
 These contracts will be of different durations and you can select the duration according to your needs and preferences. You will be given a chance to pick from a 15, 30, and 60 days’ game contract.&#x20;
 
-**The Game Contract price for Duck :**
+**The Game Contract price for DuckArmy NFT:**
 
 * <mark style="color:red;">**$15**</mark> for 15 Days Contract
 * <mark style="color:red;">**$28.5**</mark> for 30 Days Contract <mark style="color:red;">****</mark>&#x20;
