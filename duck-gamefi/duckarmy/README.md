@@ -1,4 +1,4 @@
-# DuckArmy
+# 🎮 DuckArmy
 
 DuckArmy is a P2E NFT game tailored to the needs of users looking for an enjoyable gaming experience. DuckArmy powered by **PancakePoll** will bring overwhelming admiration and the opportunity to gain huge crypto yields for each user!
 
