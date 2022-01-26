@@ -39,6 +39,7 @@
   * [PPOLL Tokenomics](tokenomics/ppoll/ppoll-tokenomics.md)
   * [Controlling PPOLL Supply](tokenomics/ppoll/controlling-ppoll-supply.md)
 * [QUACK](tokenomics/quack.md)
+* [🔥 PPOLL & QUACK Token Burning](tokenomics/ppoll-and-quack-token-burning.md)
 
 ## Developers
 
