@@ -2,8 +2,6 @@
 
 Your Duck **NFTs** can be staked in the **NFT Staking Pool.**
 
-****
-
 Reward Calculation **:**
 
 ![](../../.gitbook/assets/calc.PNG)

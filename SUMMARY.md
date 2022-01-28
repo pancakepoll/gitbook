@@ -13,7 +13,7 @@
 * [⚡ Swap Integration with Major Dex](feature/swap-integration-with-major-dex.md)
 * [✨ NFT Market](feature/nft-market.md)
 * [🤖 NFT Earn](feature/nft-earn/README.md)
-  * [🥚 Hatching](feature/nft-earn/hatching.md)
+  * [🥚 Hatching](feature/nft-earn/hatch-egg.md)
   * [❗ NFT Gain EXP](feature/nft-earn/nft-gain-exp.md)
   * [⬆ NFT Level Upgrade](feature/nft-earn/nft-level-upgrade.md)
   * [♾ NFT Staking Pool](feature/nft-earn/nft-staking-pool.md)
