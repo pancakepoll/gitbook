@@ -9,7 +9,7 @@ description: >-
 
 **How to Buy NFTs on the NFT Market?**
 
-You can purchase NFTs using 5 cryptocurrencies: PPOLL, DUCK, WBNB, USDT, BUSD.
+You can purchase NFTs using 5 cryptocurrencies: PPOLL, QUACK, WBNB, USDT, BUSD.
 
 Here is a step-by-step guide on how to buy marvelous NFTs in 2 simple ways: Fixed Price Sale and Offer to Buy.
 
@@ -18,7 +18,7 @@ Here is a step-by-step guide on how to buy marvelous NFTs in 2 simple ways: Fixe
 Benefits:
 
 * The price is fixed by the seller
-* No price changes — be sure, that you get the NFT for the price set by the Seller
+* No price changes, that you get the NFT for the price set by the Seller
 
 **Option 2:** **Offer to Buy**
 
