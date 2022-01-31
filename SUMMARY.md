@@ -28,7 +28,7 @@
   * [Gameplay](duck-gamefi/duckarmy/gameplay/README.md)
     * [Game Contract](duck-gamefi/duckarmy/gameplay/game-contract.md)
     * [Games](duck-gamefi/duckarmy/gameplay/games.md)
-  * [💰 Jackpot ++](duck-gamefi/duckarmy/jackpot-++.md)
+  * [💰 Golden Egg++](duck-gamefi/duckarmy/golden-egg++.md)
   * [🔀 Funds Distribution](duck-gamefi/duckarmy/funds-distribution.md)
   * [ℹ Winnings](duck-gamefi/duckarmy/winnings/README.md)
     * [🏅 Game Training](duck-gamefi/duckarmy/winnings/game-training.md)
