@@ -27,7 +27,7 @@
 
 * [ ] Release of the Token Manager Platform
 * [ ] Release of the Ads Manager platform
-* [ ] Release of the \[BETA] ViralPoll
+* [ ] Release of the \[BETA] duckWidget -  Social media contest tool. It allows users to create competition, find winners, and many more.
 
 ## Q3 : 2022
 
