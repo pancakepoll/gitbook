@@ -12,7 +12,8 @@
 
 ## Q1 : 2022
 
-* [ ] Release of the V2 PancakePoll
+* [x] Vote & Burn
+* [ ] Release of the V2 PancakePoll \[ Vote & Get NFT ]
 * [ ] Release of the \[BETA] NFT PancakePoll, [NFT Earn](feature/nft-earn/)
 * [ ] NFT Marketplace \[Pre-Alpha] showcase
 * [ ] Release First GameFi - [DuckArmy](duck-gamefi/duckarmy/)
@@ -31,6 +32,8 @@
 
 ## Q3 : 2022
 
+* [ ] Portfolio Multichain
+* [ ] Swap Integration with Major Dex
 * [ ] Release \[BETA] 2nd GameFi - Conquer Land PVP&#x20;
 
 {% hint style="info" %}
