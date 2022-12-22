@@ -43,4 +43,4 @@ _**PancakePoll reserves the right in its sole discretion to change or amend the 
 
 🕊️  **Twitter**: [https://twitter.com/PancakePoll](https://twitter.com/PancakePoll)
 
-✅  **Official website**: [https://pancakepoll.com/](https://pancakepoll.com)
+✅  **Official website**: [https://pancakepoll.com/](https://pancakepoll.com/)

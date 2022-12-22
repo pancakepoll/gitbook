@@ -2,23 +2,23 @@
 description: Based on the Binance Smart Chain and focuses on decentralized voting.
 ---
 
-# PancakePoll Intro
+# DuckLabs Intro
 
 ![](.gitbook/assets/banner.png)
 
 {% hint style="success" %}
-**PancakePoll helps you discover the best crypto projects in three ways:**
+**DuckLabs helps you discover the best crypto projects in three ways:**
 
 **Vote, Earn, and Create.**
 {% endhint %}
 
 ## 🗳️ Vote
 
-> Vote for your favorite cryptocurrency project and help it unlock all the PancakePoll features.
+> Vote for your favorite cryptocurrency project and help it unlock all the DuckLabs features.
 
 ### The people's choice
 
-PancakePoll is the leading coin voting platform on Binance Smart Chain, with the highest unique visitors volume in the market. The most voted projects will stand out from the rest and allow it to unlock new features.
+DuckLabs is the leading coin voting platform on Binance Smart Chain, with the highest unique visitors volume in the market. The most voted projects will stand out from the rest and allow it to unlock new features.
 
 ### Decentralized
 
@@ -57,4 +57,4 @@ No farm? No problem. Even if you're just holding your PPOLL tokens in your walle
 
 🕊️  **Twitter**: [https://twitter.com/PancakePoll](https://twitter.com/PancakePoll)
 
-✅  **Official website**: [https://pancakepoll.com/](https://pancakepoll.com)
+✅  **Official website**: [https://pancakepoll.com/](https://pancakepoll.com/)

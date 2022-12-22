@@ -42,7 +42,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 
 ## **Resources**
 
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
+[**Download Trust Wallet**](https://trustwallet.com/) (Automatically detects device)\
 ****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)
 {% endtab %}
 
@@ -73,13 +73,13 @@ To connect MetaMask to PancakePoll follow the steps below.
 
 **Network Name:** Binance Smart Chain&#x20;
 
-**RPC Url:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)&#x20;
+**RPC Url:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org/)&#x20;
 
 **Chain ID:** 56&#x20;
 
 **Symbol:** BNB&#x20;
 
-**Block Explorer URL:** [http://bscscan.com](http://bscscan.com)
+**Block Explorer URL:** [http://bscscan.com](http://bscscan.com/)
 
 &#x20; 6\. Once you've confirmed entry into the new network, go back to the burger menu and tap **Browser**.
 
@@ -179,7 +179,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKrUIhdeum2HRayoi1%2F-MbKwQxiSrjHopiVGfkS%2Fimage.png?alt=media\&token=b7ca2bd0-3c15-4633-995b-bb2be12dcfaa)
 
-&#x20; 4\. Visit the [**PancakPoll website**](https://pancakepoll.com). In the top right corner, you'll see the **Connect Wallet** button. Click it.
+&#x20; 4\. Visit the [**PancakPoll website**](https://pancakepoll.com/). In the top right corner, you'll see the **Connect Wallet** button. Click it.
 
 ![](<../.gitbook/assets/connect wallet.PNG>)
 

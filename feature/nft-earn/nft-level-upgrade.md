@@ -25,4 +25,4 @@ _The proper amount of your low-level NFTs is burned once you upgrade it to the n
 
 🕊️  **Twitter**: [https://twitter.com/PancakePoll](https://twitter.com/PancakePoll)
 
-✅  **Official website**: [https://pancakepoll.com/](https://pancakepoll.com)
+✅  **Official website**: [https://pancakepoll.com/](https://pancakepoll.com/)

@@ -24,7 +24,7 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 {% endtab %}
 
 {% tab title="💰 Binance.com" %}
-****[**Binance.com**](https://www.binance.com) - You can withdraw tokens as BEP20 via your Binance account (if you have one). Bear in mind you need an account to do so.
+****[**Binance.com**](https://www.binance.com/) - You can withdraw tokens as BEP20 via your Binance account (if you have one). Bear in mind you need an account to do so.
 
 📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}

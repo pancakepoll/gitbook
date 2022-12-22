@@ -54,7 +54,7 @@ Rarity : Captain (Uncommon)
 
 Exp : 1
 
-Level : 1
+Level : 2
 
 </details>
 
@@ -72,7 +72,7 @@ Rarity : Master (Rare)
 
 Exp : 1
 
-Level : 1
+Level : 3
 
 </details>
 
@@ -90,7 +90,7 @@ Rarity :Shadow (Epic)
 
 Exp : 1
 
-Level : 1
+Level : 4
 
 </details>
 
@@ -108,7 +108,7 @@ Rarity : Mind (Legendary)
 
 Exp : 1
 
-Level : 1
+Level : 5
 
 </details>
 
@@ -126,6 +126,6 @@ Rarity : Supreme (Mythical)
 
 Exp : 1
 
-Level : 1
+Level : 6
 
 </details>

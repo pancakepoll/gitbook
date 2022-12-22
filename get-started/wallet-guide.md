@@ -67,7 +67,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 * Limited DApps
 * Transaction notifications can be delayed
 
-****[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)
+****[**Download Trust Wallet**](https://trustwallet.com/) (Automatically detects device)
 
 ****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)****
 {% endtab %}

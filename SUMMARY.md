@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PancakePoll Intro](README.md)
+* [DuckLabs Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/get-bep20-tokens.md)
@@ -11,10 +11,9 @@
 ## Feature
 
 * [⚡ Swap Integration with Major Dex](feature/swap-integration-with-major-dex.md)
-* [✨ NFT Market](feature/nft-market.md)
 * [🤖 NFT Earn](feature/nft-earn/README.md)
   * [🥚 Hatching](feature/nft-earn/hatch-egg.md)
-  * [❗ NFT Gain EXP](feature/nft-earn/nft-gain-exp.md)
+  * [❗ NFT Gain Duck Boost ( DB )](feature/nft-earn/nft-gain-duck-boost-db.md)
   * [⬆ NFT Level Upgrade](feature/nft-earn/nft-level-upgrade.md)
   * [♾ NFT Staking Pool](feature/nft-earn/nft-staking-pool.md)
 * [📺 Portfolio Multichain](feature/portfolio-multichain/README.md)
