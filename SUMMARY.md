@@ -13,9 +13,9 @@
 * [⚡ Swap Integration with Major Dex](feature/swap-integration-with-major-dex.md)
 * [🤖 NFT Earn](feature/nft-earn/README.md)
   * [🥚 Hatching](feature/nft-earn/hatch-egg.md)
-  * [❗ NFT Gain Duck Boost ( DB )](feature/nft-earn/nft-gain-duck-boost-db.md)
-  * [⬆ NFT Level Upgrade](feature/nft-earn/nft-level-upgrade.md)
   * [♾ NFT Staking Pool](feature/nft-earn/nft-staking-pool.md)
+  * [🦆 NFT Boost ( DuckBoost )](feature/nft-earn/nft-boost-duckboost.md)
+  * [⬆ NFT Level Upgrade](feature/nft-earn/nft-level-upgrade.md)
 * [📺 Portfolio Multichain](feature/portfolio-multichain/README.md)
   * [🌈 Token Analytic](feature/portfolio-multichain/token-analytic.md)
 * [🔥 Vote & Burn](feature/vote-and-burn/README.md)
@@ -38,7 +38,7 @@
 * [PPOLL](tokenomics/ppoll/README.md)
   * [PPOLL Tokenomics](tokenomics/ppoll/ppoll-tokenomics.md)
   * [Controlling PPOLL Supply](tokenomics/ppoll/controlling-ppoll-supply.md)
-* [QUACK](tokenomics/quack.md)
+* [DUCK Token](tokenomics/duck-token.md)
 * [🔥 PPOLL & QUACK Token Burning](tokenomics/ppoll-and-quack-token-burning.md)
 
 ## Developers
